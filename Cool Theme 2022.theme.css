@@ -1,0 +1,28 @@
+/**
+* @name Cool Theme 2022
+* @version 2.0
+* @description A cool theme I made so cool that you should use
+* @author TheDiamondOG
+* @invite Cool
+* @Source https://github.com/TheDiamondOG/CoolTheme2022
+* @website https://betterdiscord.app/theme/
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen');
+:root {
+--themeColor1: #DC2F4AFF;
+--themeColor2: #E52A2AFF;
+--customFont: 'Silkscreen';
+--homeImage: url('https://i.imgur.com/9wRYRfk.gif');
+--homeImageSize: contain;
+--backgroundColor: #03010DFF;
+--backgroundImage: url('https://i.imgur.com/Gcv2y93.gif');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.4;
+--HSL-server-icon-size: 50px;
+--HSL-server-spacing: 14px;
+}
